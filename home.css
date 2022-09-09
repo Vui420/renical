@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap');
+
+body{
+    background-image: url('bg.png');
+}
+
+.Renical{
+    font-size: 2cm;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.Renical-general{
+    font-size: 1cm;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.helen{
+    font-size: 1cm;
+    color: white;
+    font-family: sans-serif;
+    -webkit-text-stroke: 1px black;
+}

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap');
+
+body{
+    background-image: url('bg.png');
+}
+
+.Helen{
+    font-size: 2cm;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.helen-general{
+    font-size: 1cm;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+a, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: grey;
+}
+.title-commands{
+    font-size: 0.9cm;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.helen-commands-economy{
+    font-size: 0.7cm;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 500;
+    right: 0;
+}
+.helen-commands-support{
+    font-size: 0.7cm;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 900;
+    right: 0;
+}
+.helen-commands-music{
+    font-size: 0.7cm;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 1100;
+    right: 0;
+}
+.helen-commands-moderation{
+    font-size: 0.7cm;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 1300;
+    right: 0;
+}
+.helen-commands-fun{
+    font-size: 0.7cm;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 700;
+    right: 0;
+}
+.updates-helen{
+    font-size: 0.8cm;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 670;
+    right: 0;
+    bottom: 1in;
+    color: white;
+    font-family: sans-serif;
+}
+.beta{
+    font-size: 0.8cm;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 670;
+    right: 0;
+    bottom: -1in;
+    color: white;
+    font-family: sans-serif;
+}
